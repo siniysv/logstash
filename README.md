@@ -1,1 +1,3 @@
 # logstash
+cowrie
+dionaea
